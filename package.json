@@ -1,0 +1,8 @@
+{
+    "name": "my-money",
+    "cozy-type": "static",
+    "cozy-displayName": "My Money",
+    "version": "1.0.0",
+    "description": "Simple dashboard of current balances",
+    "icon-path": "main_icon.png"
+}
